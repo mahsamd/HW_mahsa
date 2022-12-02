@@ -1,0 +1,10 @@
+$ git diff linus_tor master
+diff --git a/Github.txt b/Github.txt
+index 96ea4f7..089733b 100644
+--- a/Github.txt
++++ b/Github.txt
+@@ -1 +1 @@
+-GitHub, Inc. is an Internet hosting service for software development and version control using Git.
+\ No newline at end of file
++GitHub, Inc. is an Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project.
+\ No newline at end of file
